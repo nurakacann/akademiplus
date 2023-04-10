@@ -1,0 +1,4 @@
+#Mon Apr 10 03:49:51 TRT 2023
+base.0=C\:\\Users\\KIZILKAYA\\StudioProjects\\akademiplus\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

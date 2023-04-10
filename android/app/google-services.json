@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "299967834151",
+    "project_id": "akademiplus",
+    "storage_bucket": "akademiplus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299967834151:android:b7b2e67261e343d3f44602",
+        "android_client_info": {
+          "package_name": "com.example.akademiplus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299967834151-bltqmfs5for1d0bedsoeb2q4ch90pcql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBWqTHsrMqBNo9X4IVMGIdkAHsKvj6R_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299967834151-bltqmfs5for1d0bedsoeb2q4ch90pcql.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
